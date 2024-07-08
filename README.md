@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ![cka-certified-kubernetes-administrator](https://github.com/sejoonkimmm/sejoonkimmm/assets/117820621/6e7b3e3e-c449-4e89-85c9-d9d4a6158747)
 
+<img src="https://img.shields.io/badge/AWS_DOP--C02-232F3E?style=flat&logo=amazon-aws&logoColor=white" width="150" height="150">
+
 
 
 ## About Me
@@ -26,11 +28,14 @@ Here are some ideas to get you started:
 * I was the former Student Council President of 42Seoul.
 * I served as a Flight Engineer in the Republic of Korea Army Aviation for 5 years and was discharged as a Master Sergeant.
 * I am passionate about DevOps workflow, Platform Engineering, and Cloud architecture, aiming to become an expert in these fields.
+* I am currently living in Germany and looking for English-speaking job opportunities.
+* My English proficiency is Intermediate high.
 
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sejokimde/)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://www.linkedin.com/in/sejokimde/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bod092512@gmail.com)
 
 ## My Tech Stack
 
