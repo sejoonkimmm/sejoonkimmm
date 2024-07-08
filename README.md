@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![CKA](https://github.com/sejoonkimmm/sejoonkimmm/assets/117820621/d4d299f6-5180-4821-bc9c-ae33f21e8daf)
+![cka-certified-kubernetes-administrator](https://github.com/sejoonkimmm/sejoonkimmm/assets/117820621/6e7b3e3e-c449-4e89-85c9-d9d4a6158747)
+
