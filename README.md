@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 ![cka-certified-kubernetes-administrator](https://github.com/sejoonkimmm/sejoonkimmm/assets/117820621/6e7b3e3e-c449-4e89-85c9-d9d4a6158747)
 
-<img src="https://img.shields.io/badge/AWS_DOP--C02-232F3E?style=flat&logo=amazon-aws&logoColor=white" width="150" height="150">
-
 
 
 ## About Me
