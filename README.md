@@ -1,4 +1,4 @@
-## Hi there 👋
+## Guten tag 👋
 
 <!--
 **sejoonkimmm/sejoonkimmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![CKA](https://github.com/sejoonkimmm/sejoonkimmm/assets/117820621/d4d299f6-5180-4821-bc9c-ae33f21e8daf)
