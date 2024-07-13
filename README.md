@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![cka-certified-kubernetes-administrator](https://github.com/sejoonkimmm/sejoonkimmm/assets/117820621/6e7b3e3e-c449-4e89-85c9-d9d4a6158747)
-![AWS-Certified-DevOps-Engineer-Professional_badge 7492bf660b5351e51f3f8015e4818924294a7e8c](https://github.com/user-attachments/assets/33a587c0-7f82-4e8d-890b-011596d37593)
 
 
 ## About Me
