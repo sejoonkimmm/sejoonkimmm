@@ -6,18 +6,25 @@
 </p>
 
 
-
-
 ## About Me
+I am a Cloud & DevOps enthusiast with a unique combination of military aviation expertise and software engineering background. Currently participating in the Porsche Digital Campus Challenge as the German representative for Brand Experience, leveraging Terraform, AWS Lambda, and Python.
 
-* I am the second contributor to Volkswagen's open-source project SEAME.
-* I studied at 42Wolfsburg.
-* I was the former Student Council President of 42Seoul.
-* I served as a Flight Engineer in the Republic of Korea Army Aviation for 5 years and was discharged as a Master Sergeant.
-* I am passionate about DevOps workflow, Platform Engineering, and Cloud architecture, aiming to become an expert in these fields.
-* I am currently living in Germany and looking for English-speaking job opportunities.
-* My English proficiency is Intermediate high.
+### Professional Background
+- Contributing core developer to Volkswagen's open-source SEAME project
+- Former Student Council President at 42Seoul and alumnus of 42Wolfsburg
+- Served 5 years as Flight Engineer (Master Sergeant) in ROK Army Aviation, developing strong leadership and precision-oriented mindset
 
+### Technical Focus
+I am deeply passionate about:
+- Cloud-Native Architecture & Serverless Computing
+- Infrastructure as Code & Platform Engineering
+- Microservice Architecture (MSA)
+- Site Reliability Engineering (SRE)
+
+### Current Status
+Based in Germany, actively seeking English-speaking roles in DevOps, SRE, or Cloud Architecture
+Intermediate-high English proficiency
+Eager to contribute to organizations that value innovation and technical excellence in cloud infrastructure
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sejokimde/)
