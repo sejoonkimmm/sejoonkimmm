@@ -21,11 +21,6 @@ I am deeply passionate about:
 - Microservice Architecture (MSA)
 - Site Reliability Engineering (SRE)
 
-### Current Status
-Based in Germany, actively seeking English-speaking roles in DevOps, SRE, or Cloud Architecture
-Intermediate-high English proficiency
-Eager to contribute to organizations that value innovation and technical excellence in cloud infrastructure
-
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sejokimde/)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@sejokim/posts)
