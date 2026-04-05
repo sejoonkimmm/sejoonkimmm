@@ -21,7 +21,7 @@ CKA · AWS DevOps Professional · Azure Solution Architect Expert
 
 **42Seoul / 42Wolfsburg** — Student council president at 42Seoul. Projects in C, C++, Python, Go.
 
-**ROK Army Aviation** — 5 years as UH-60P Flight Engineer (Master Sergeant). NCO Basic Leader Course, graduated top of class.
+**ROK Army Aviation** — 5 years as IT/Security Administrator. NCO Basic Leader Course, graduated top of class.
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sejokimde/)
