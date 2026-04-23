@@ -1,15 +1,11 @@
 ## Guten tag 👋
 
-<div align="center">
-
-<table><tr>
-<td><img src="https://github.com/user-attachments/assets/60b733c9-b9c1-415c-a334-6ef404f8313b" width="140" height="140" alt="AWS DevOps Professional"></td>
-<td><img src="https://github.com/user-attachments/assets/33efbff2-3245-47ad-8027-fd977f52fe1d" width="140" height="140" alt="CKA"></td>
-<td><img src="https://github.com/user-attachments/assets/2b334dfa-2656-4198-b128-86f916506444" width="140" height="140" alt="Azure Administrator Associate"></td>
-<td><img src="https://github.com/user-attachments/assets/3bc392dc-d48d-41f0-96f6-d136288de456" width="140" height="140" alt="Azure Solutions Architect Expert"></td>
-</tr></table>
-
-</div>
+<p align="center">
+  <img src="assets/certs/aws-devops.png" width="140" height="140" alt="AWS DevOps Professional">
+  <img src="assets/certs/cka.png" width="140" height="140" alt="CKA">
+  <img src="assets/certs/azure-admin.png" width="140" height="140" alt="Azure Administrator Associate">
+  <img src="assets/certs/azure-architect.png" width="140" height="140" alt="Azure Solutions Architect Expert">
+</p>
 
 
 ## Sejoon Kim
