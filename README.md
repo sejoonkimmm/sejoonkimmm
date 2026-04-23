@@ -1,10 +1,13 @@
 ## Guten tag 👋
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/60b733c9-b9c1-415c-a334-6ef404f8313b" width="150" height="150" alt="AWS DevOps Professional" style="margin-right: 20px;">
-  <img src="https://github.com/user-attachments/assets/33efbff2-3245-47ad-8027-fd977f52fe1d" width="150" height="150" alt="CKA Certification">
-<img width="150" height="150" alt="azure-administrator-associate-150x150-dark" src="https://github.com/user-attachments/assets/2b334dfa-2656-4198-b128-86f916506444" />
-<img width="150" height="150" alt="azure-solutions-architect-expert-150x150-dark" src="https://github.com/user-attachments/assets/3bc392dc-d48d-41f0-96f6-d136288de456" />
+  <img src="https://github.com/user-attachments/assets/60b733c9-b9c1-415c-a334-6ef404f8313b" width="140" height="140" alt="AWS DevOps Professional">
+  &nbsp;
+  <img src="https://github.com/user-attachments/assets/33efbff2-3245-47ad-8027-fd977f52fe1d" width="140" height="140" alt="CKA">
+  &nbsp;
+  <img src="https://github.com/user-attachments/assets/2b334dfa-2656-4198-b128-86f916506444" width="140" height="140" alt="Azure Administrator Associate">
+  &nbsp;
+  <img src="https://github.com/user-attachments/assets/3bc392dc-d48d-41f0-96f6-d136288de456" width="140" height="140" alt="Azure Solutions Architect Expert">
 </p>
 
 
